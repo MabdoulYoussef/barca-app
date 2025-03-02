@@ -10,6 +10,9 @@ export default function () {
                 <li>Player 2</li>
                 <li>Player 3</li>
             </ul>
+            <p>
+                To add a new player, please contact our support team at 0800 123 4567.
+            </p>
         </div>
     )
 }
