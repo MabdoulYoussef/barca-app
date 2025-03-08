@@ -13,6 +13,9 @@ export default function () {
             <p>
                 To add a new player, please contact our support team at 0800 123 4567.
             </p>
+            <p>
+                To add a new player, please contact our support team at 0800 123 4567.
+            </p>
         </div>
     )
 }
