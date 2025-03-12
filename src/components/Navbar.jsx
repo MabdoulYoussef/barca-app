@@ -26,6 +26,13 @@ const Navbar = () => {
                     <i className="fab fa-youtube"></i>
                 </a>
             </p>
+            <p>
+                <Link to="/contact">Contact</Link>
+                <Link to="/about">About</Link>
+                <Link to="/faq">FAQ</Link>
+                <Link to="/news">News</Link>
+                <Link to="/blog">Blog</Link>
+            </p>
         </nav>
     );
 };
