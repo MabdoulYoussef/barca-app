@@ -33,6 +33,15 @@ const Navbar = () => {
                 <Link to="/news">News</Link>
                 <Link to="/blog">Blog</Link>
             </p>
+            <p>
+                <Link to="/login">Login</Link>
+                <Link to="/signup">Sign Up</Link>
+                <Link to="/cart">Cart ({/* Get cart item count */})</Link>
+                <Link to="/account">Account</Link>
+                <button className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-md">
+                    Checkout
+                </button>
+            </p>
         </nav>
     );
 };
