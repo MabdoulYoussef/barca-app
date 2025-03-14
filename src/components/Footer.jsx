@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function () {
     return (
-        <div>
+        <div className='footer'>
             <h1>Team</h1>
             <p>Here is a list of our team members:</p>
             <ul>
